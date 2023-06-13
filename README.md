@@ -3,6 +3,8 @@
 
 This repository contains a collection of files related to binary trees, which have been developed as part of the curriculum at Holberton School. These files provide an introduction to binary tree data structures and cover various operations and algorithms associated with them.
 
+![binary_trees](images/Binary_tree_v2.png)
+
 ### Concepts
 1. What is a binary tree:
     - A binary tree is a hierarchical data structure composed of nodes, where each node can have at most two children, referred to as the left child and the right child. The nodes are connected through edges, and a special node called the root represents the topmost node in the tree.
@@ -72,7 +74,7 @@ Feel free to explore each file for detailed code implementations and explanation
 #### Further Investigation
 To deepen your understanding of binary trees, you may consider investigating the following topics:
 
-Binary search trees
-AVL trees
-Red-black trees
-Heap data
+- Binary search trees
+- AVL trees
+- Red-black trees
+- Heap data
